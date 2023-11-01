@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Informacion">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        El Doctorado en Industria Inteligente de la PUCV,
+        se dispone para dotar al país de investigación interdisciplinaria en el campo de las ciencias de la ingeniería.
+        En consecuencia, los investigadores podrán ser capaces de liderar estudios interdisciplinarios en Ingeniería y dar solución a problemas claves de sectores productivos,
+        permitiéndole abordar desafíos en las áreas de vulnerabilidad y riesgos frente amenazas naturales, cambio climático, productividad, escasez hídrica y sustentabilidad
+        de la industria.
+    </TextView>
+
+</android.support.constraint.ConstraintLayout>
